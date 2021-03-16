@@ -12,7 +12,7 @@ worker/processes/temp/
 ffmpeg.exe
 
 # Build Directory
-build/
+dist/
 
 # Runtime data
 pids
