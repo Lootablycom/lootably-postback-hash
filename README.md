@@ -30,4 +30,4 @@ console.log(generatedHash);
 Type declaration files are bundled with the node module, so you do not need to install types separately. 
 
 ## Questions
-Feel free to open an issue or email business@lootably.com. Our team would be happy to help you with any issues you may come across!
+Feel free to open an issue or email business@lootably.com. Our team would be happy to help with any issues you may come across!
